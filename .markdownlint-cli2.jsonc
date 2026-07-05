@@ -3,7 +3,8 @@
   // 詳細: https://github.com/DavidAnson/markdownlint-cli2
   "globs": [
     "README.md",
-    "spark-operator/**/*.md"
+    "spark-operator/**/*.md",
+    "mysql-operator/**/*.md"
   ],
   "config": {
     "default": true,
