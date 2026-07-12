@@ -4,7 +4,8 @@
   "globs": [
     "README.md",
     "spark-operator/**/*.md",
-    "mysql-operator/**/*.md"
+    "mysql-operator/**/*.md",
+    "strimzi-kafka-operator/**/*.md"
   ],
   "config": {
     "default": true,
